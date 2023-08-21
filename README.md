@@ -1,5 +1,5 @@
 
-![Threads]([https://i.ibb.co/2dSC0TQ/Thumbnail-1.png](https://github.com/nirajj-pal/threads/blob/main/threads-png.png))
+![Threads](https://raw.githubusercontent.com/nirajj-pal/threads/main/threads-png.png)
 
 
 
